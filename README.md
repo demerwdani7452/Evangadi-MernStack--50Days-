@@ -4,5 +4,5 @@ but this time am gone do it all by myself.
 
 
 
-started date:Wednesday, August 23, 2023
-end date:Thursday, October 12, 2023
+started date:Wednesday, August 23, 2023.
+end date:Thursday, October 12, 2023.
